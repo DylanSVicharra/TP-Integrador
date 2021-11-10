@@ -1,0 +1,28 @@
+#contenedor{
+    position: relative;
+}
+
+#contenedor .card-body{
+    flex: none;
+    width: 50vw;
+}
+
+.card{
+    border: none;
+}
+
+.card-img{
+    filter: brightness(50%);
+}
+
+#pie-pagina a{
+    color:white;
+    font-size: 1rem;
+    text-decoration: none;
+}
+
+#formulario button{
+    background-color: #96C93E;
+}
+
+
